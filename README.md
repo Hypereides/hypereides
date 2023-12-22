@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypereides" alt="hypereides" /></a> </p>
 
-- 🌱 I’m currently learning **Golang and Solidity**
+- I’m currently learning **Golang and Solidity**
 
-- 👨‍💻 All of my projects are available at [ohpanagiotis.com](ohpanagiotis.com)
+-  All of my projects are available at [ohpanagiotis.com](ohpanagiotis.com)
 
-- 📝 I regularly write articles on [ohpanagiotis.com](ohpanagiotis.com)
-
-- 📫 How to reach me **contact@ohpanagiotis.com**
+-  You can always reach me by email: **contact@ohpanagiotis.com**
 
 
 <p align="left">
