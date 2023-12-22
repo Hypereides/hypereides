@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **contact@ohpanagiotis.com**
 
-- ⚡ Fun fact **don't know how to code**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
