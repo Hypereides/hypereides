@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pete</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Enthusiastic seeker of digital excellence, I'm Pete—a passionate individual dedicated to the art and science of software engineering. Currently immersed in the realms of coding and innovation, I'm on a relentless journey to master the craft. With a penchant for elegant solutions and a commitment to continuous learning, I strive to shape the future of technology. Join me as I navigate the intricate landscapes of code, weaving creativity and precision into seamless software experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypereides&label=Profile%20views&color=0e75b6&style=flat" alt="hypereides" /> </p>
 
